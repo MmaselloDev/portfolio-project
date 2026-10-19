@@ -38,7 +38,7 @@ A design decision was taken to include social links on `index.html` and `submit.
 
 1. Clone the repository: `git clone https://github.com/mmasellomanabile-umuzi/portfolio-project.git`
 2. Open `index.html` in Chrome or Edge and use the navigation links.
-3. Or visit the published site: https://mmasellomanabile-umuzi.github.io/portfolio-project/
+3. Or visit the published site: https://mmasellodev.github.io/portfolio-project/
 
 ## Screenshots
 
@@ -65,6 +65,5 @@ Debugging the starter code taught me to measure problems instead of guessing. Th
 - **An invalid hover rule.** `nav :hover` used `transform: matrix(-10)`, which the validator rejects, and the selector recoloured everything inside the nav. I replaced it with `.nav-links a:hover` and a simple colour transition.
 - **Contrast that only looked fine.** My first form-button hover colour still failed. Calculating the ratio showed 3.77:1, so I switched to the darker accent colour (6.66:1) and did the same for the required-field asterisk.
 
-I also missed a closing `</footer>` in `contact.html` until feedback pointed it out. Re-running both validators after every change is now my habit.
 
 - The issues found have been documented in a .pdf file (design/issues-identified.txt)
