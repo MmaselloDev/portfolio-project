@@ -21,7 +21,7 @@ A multi-page portfolio for an aspiring Software Developer, built with HTML5 and 
 
 Every page uses `<header>` with `<nav>`, `<main>` (holding `<section>` and `<article>` blocks) and `<footer>`. The only non-semantic `<div>` is the footer layout wrapper. Each page has one `<h1>`, headings follow in order, and the current page link carries `aria-current="page"`.
 
-A design decision was taken to include social links on `index.html` and `submit.html` only, as this presents the site better.
+A design decision was taken to include social links on `index.html` and `submit.html` only as well as in the footer section on each page as this presents the site better; 
 
 ## CSS Approach
 
@@ -36,25 +36,25 @@ A design decision was taken to include social links on `index.html` and `submit.
 
 ## How to View
 
-1. Clone the repository: `git clone https://github.com/mmasellomanabile-umuzi/portfolio-project.git`
+1. Clone the repository: `git clone https://github.com/MmaselloDev/portfolio-project.git`
 2. Open `index.html` in Chrome or Edge and use the navigation links.
-3. Or visit the published site: https://mmasellodev.github.io/portfolio-project/
+3. Or visit the published site: `https://mmasellodev.github.io/portfolio-project/`
 
 ## Screenshots
 
 Final site: `screenshots/After(FinalProject)`. 
 
-![Home](<Screenshots/After(FinalProject)/index.html.png>)
-![About and skills table](<Screenshots/After(FinalProject)/about.html.png>)
-![Projects](<Screenshots/After(FinalProject)/projects.html.png>)
-![Contact form](<Screenshots/After(FinalProject)/contact.html.png>)
-![Confirmation](<Screenshots/After(FinalProject)/submit.html.png>)
-![CSS validation](<Screenshots/After(FinalProject)/CSS Validation.png>)
-![Home validation](<Screenshots/After(FinalProject)/indexW3c validator.png>)
-![About validation](<Screenshots/After(FinalProject)/W3C_about.html.png>)
-![Contact validation](<Screenshots/After(FinalProject)/W3C_contact.html.png>)
-![Projects validation](<Screenshots/After(FinalProject)/W3C_projects.html.png>)
-![Navigation hover state](<Screenshots/After(FinalProject)/nav-hover.png>)
+![Home](<screenshots/After(FinalProject)/index.html.png>)
+![About and skills table](<screenshots/After(FinalProject)/about.html.png>)
+![Projects](<screenshots/After(FinalProject)/projects.html.png>)
+![Contact form](<screenshots/After(FinalProject)/contact.html.png>)
+![Confirmation](<screenshots/After(FinalProject)/submit.html.png>)
+![CSS validation](<screenshots/After(FinalProject)/CSS Validation.png>)
+![Home validation](<screenshots/After(FinalProject)/indexW3c validator.png>)
+![About validation](<screenshots/After(FinalProject)/W3C_about.html.png>)
+![Contact validation](<screenshots/After(FinalProject)/W3C_contact.html.png>)
+![Projects validation](<screenshots/After(FinalProject)/W3C_projects.html.png>)
+![Navigation hover state](<screenshots/After(FinalProject)/nav-hover.png>)
 
 
 ## Reflection
